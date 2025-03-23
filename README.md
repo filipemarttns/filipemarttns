@@ -1,7 +1,7 @@
 ### 🌌 Welcome to My Code Universe 🌌
 
 <div align="center">
-  <img src="https://i.gifer.com/1GQN.gif" width="600" alt="Animated Dark Coding">
+  <img src="https://i.gifer.com/1GQN.gif" width="200" alt="Animated Dark Coding">
 </div>
 
 ---

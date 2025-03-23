@@ -74,7 +74,7 @@ Me chamo Filipe Gabriel, atualmente, cursando o terceiro ano do ensino médio e 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarttns&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens de Programação" 
   />
 
 </p>

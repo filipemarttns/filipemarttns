@@ -62,17 +62,20 @@ Me chamo Filipe Gabriel, atualmente, cursando o terceiro ano do ensino médio e 
     src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="140" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarttns&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens de Programação" 
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="140" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarttns&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Linguagens de Programação" 
   />
-
 </p>
 
-<div> 
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/filipe-gabriel-13864a265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/filipe.marttns?igsh=MWhoNjc5OTlla242NQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/filipe-gabriel-13864a265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/filipe.marttns?igsh=MWhoNjc5OTlla242NQ==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
-

@@ -77,4 +77,3 @@ Me chamo Filipe Gabriel, atualmente, cursando o terceiro ano do ensino médio e 
   </a>
 </div>
 
-![Snake animation](https://github.com/filipemarttns/filipemarttns/blob/output/github-snake.svg)

@@ -61,8 +61,6 @@ Me chamo Filipe Gabriel, atualmente, cursando o terceiro ano do ensino médio e 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" 
   />
-
-<p align="center">
   <img 
     alt="GitHub Stats" 
     height="140" 

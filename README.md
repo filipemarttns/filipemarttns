@@ -76,3 +76,5 @@ Me chamo Filipe Gabriel, atualmente, cursando o terceiro ano do ensino médio e 
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+![Snake animation](https://github.com/filipemarttns/filipemarttns/blob/output/github-snake.svg)

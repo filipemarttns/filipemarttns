@@ -6,16 +6,6 @@
 
 ---
 
-### ⚡ **Who Am I?** ⚡
-
-I am **Filipe**, a **developer**, **creator**, and **dreamer**. 
-
-I am a coder at heart, constantly striving to bring creative solutions to life. I thrive on problem-solving and pushing my limits. Whether it's a Python script, a mobile app built with **Kivy**, or a **Power BI** dashboard, I live for the challenge of turning abstract ideas into functional and efficient digital solutions.
-
-My journey is driven by passion, fueled by curiosity, and shaped by the world of code. I spend countless hours in the glow of my screens, crafting new ways to make digital experiences more intuitive, accessible, and engaging. The **dark mode** is my comfort zone. 💻✨
-
----
-
 ### 🛠️ **Tech Stack & Tools I Use** 🛠️
 
 I work with a wide range of technologies to build scalable, efficient, and innovative solutions. Here’s a list of the tools and languages that power my work:

@@ -1,8 +1,10 @@
 # 👨‍💻 Filipe Martins
 
-**`Desenvolvedor Full Stack`**
+**`Full Stack Developer (JavaScript, Python, Node.js, React.js, Flutter)`**
 
-Me chamo Filipe Gabriel, atualmente, cursando o terceiro ano do ensino médio e atuando como Analista de Dados na Rouxinol. Minhas responsabilidades incluem a criação e gestão de projetos internos, liderança de equipe, atualização de PowerBI, resolução de questões relacionadas à logística e desenvolvimento de sistemas internos/automação de processos
+I build custom systems: automations, dashboards, APIs, and web/mobile applications.
+Experienced with SQL, Power BI, and REST integrations.
+Focused on stability, clean code, and fast delivery.
 
 ### 🤖 Linguagens e Tecnologias
 

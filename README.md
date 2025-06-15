@@ -39,6 +39,7 @@ Foco em estabilidade, código limpo e entrega rápida.
   <img src="https://github.com/filipemarttns/filipemarttns/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
+
 ---
 
 ### 🌐 Conecte-se comigo

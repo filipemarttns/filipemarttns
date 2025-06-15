@@ -33,7 +33,8 @@ Foco em estabilidade, código limpo e entrega rápida.
 
 ---
 
-<img src="https://github.com/filipemarttns/filipemarttns/raw/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/filipemarttns/filipemarttns/raw/output/github-contribution-grid-snake.svg)
+
 
 
 

@@ -54,7 +54,6 @@ Focused on stability, clean code, and fast delivery.
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 

@@ -24,7 +24,7 @@ Foco em estabilidade, código limpo e entrega rápida.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <div align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
@@ -34,7 +34,7 @@ Foco em estabilidade, código limpo e entrega rápida.
 ---
 
 
-### 🌐 Conecte-se comigo
+### 🌐 Conecte-se comigo!!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/filipe-gabriel-13864a265" target="_blank">

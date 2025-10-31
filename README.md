@@ -1,40 +1,58 @@
 # 👨‍💻 Filipe Martins
 
-**`Full Stack Developer (JavaScript, Python, Node.js, React.js, Flutter)`**
+**`Full Stack Developer | Tech Architect | Founder @ Kivision`**
 
-Construo sistemas sob medida: automações, dashboards, APIs e aplicações web/mobile.  
-Especialista em SQL, Power BI e integrações REST.  
-Foco em estabilidade, código limpo e entrega rápida.
+Crio sistemas inteligentes e escaláveis — automações, APIs, dashboards e aplicações web/mobile de alto desempenho.  
+Foco em **performance, estabilidade e entrega rápida**.  
+Sou movido por **código limpo, design estratégico e resultados mensuráveis.**
 
 ---
 
-### ⚙️ Tecnologias & Linguagens
+### ⚙️ Stack & Tecnologias Principais
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40px" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45px" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" title="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45px" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45px" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45px" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" title="CSS3" />
 </div>
 
 ---
 
-### 📊 GitHub Status
+### 🚀 GitHub Overview
 
 <div align="center">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarttns&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarttns&layout=compact&theme=tokyonight&hide_border=true&custom_title=Tecnologias&langs_count=8" />
 </div>
 
 ---
 
+### 🔥 Atividade Atual
 
-### 🌐 Conecte-se comigo!!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filipemarttns&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=filipemarttns&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
+</div>
+
+---
+
+### 📈 Commits Totais
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipemarttns&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Commits+Totais&hide_border=true" height="130px" />
+</div>
+
+---
+
+### 🌎 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/filipe-gabriel-13864a265" target="_blank">
@@ -43,4 +61,13 @@ Foco em estabilidade, código limpo e entrega rápida.
   <a href="https://www.instagram.com/filipe.marttns" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://github.com/filipemarttns" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <strong>“Building code. Building empires.”</strong>
 </div>

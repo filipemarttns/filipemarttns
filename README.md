@@ -28,7 +28,7 @@ Sou movido por **código limpo, design estratégico e resultados mensuráveis.**
 ### 🚀 GitHub Overview
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=filipemarttns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarttns&layout=compact&theme=tokyonight&hide_border=true&custom_title=Tecnologias&langs_count=8" />
 </div>
 
@@ -40,14 +40,6 @@ Sou movido por **código limpo, design estratégico e resultados mensuráveis.**
   <img src="https://streak-stats.demolab.com?user=filipemarttns&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=filipemarttns&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
-</div>
-
----
-
-### 📈 Commits Totais
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipemarttns&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Commits+Totais&hide_border=true" height="130px" />
 </div>
 
 ---

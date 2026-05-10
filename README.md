@@ -4,7 +4,7 @@
 
 <h1>Filipe Martins</h1>
 
-<h3><code>Full Stack Developer | Software Engineer</code></h3>
+<h3><code>Software Engineer</code></h3>
 
 <p>
 I build scalable applications, automation workflows, APIs, and data-driven solutions. I also maintain two production systems operating 24/7 within a large enterprise in Belo Horizonte. Solutions I architected and developed end-to-end to support continuous, mission-critical operations.

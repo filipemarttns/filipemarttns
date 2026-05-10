@@ -5,7 +5,7 @@
 <h1>Filipe Martins</h1>
 
 <h3><code>Full Stack Developer | Software Engineer</code></h3>
-               
+
 <p>
 I build scalable applications, automation workflows, APIs, and data-driven solutions. I also maintain two production systems operating 24/7 within a large enterprise in Belo Horizonte. Solutions I architected and developed end-to-end to support continuous, mission-critical operations.
 </p>
@@ -16,12 +16,13 @@ I build scalable applications, automation workflows, APIs, and data-driven solut
 
 <hr/>
 
-<h2>⚙️ Technical Stack</h2>
-
 <div align="center">
+<h2>Technical Stack</h2>
 
 <p><strong>Core technologies used in professional and production environments</strong></p>
 
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3C9DD0"/>
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
@@ -33,9 +34,8 @@ I build scalable applications, automation workflows, APIs, and data-driven solut
 
 </div>
 
-<h2>🔗 Professional Links</h2>
-
 <div align="center">
+<h2>Professional Links</h2>
 
 <a href="https://www.linkedin.com/in/filipe-gabriel-13864a265" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

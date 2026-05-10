@@ -37,9 +37,6 @@ End-to-end solutions designed for mission-critical operations.
 
 ## Professional Links
 
-<a href="https://www.linkedin.com/in/filipe-gabriel-13864a265" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
 <a href="https://github.com/filipemarttns" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>

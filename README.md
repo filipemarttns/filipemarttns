@@ -37,9 +37,6 @@ End-to-end solutions designed for mission-critical operations.
 
 ## Professional Links
 
-<a href="https://linkedin.com/filipemarttns" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://www.instagram.com/filipe.marttns" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
